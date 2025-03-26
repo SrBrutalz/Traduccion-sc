@@ -9,7 +9,7 @@ Haz clic en el siguiente enlace para descargar la versión más reciente:
 
 ## 📄 Instrucciones de Instalación
 1. Descarga el archivo ZIP desde el enlace de arriba.
-2. Extrae el contenido en la carpeta del juego o sigue las instrucciones incluidas.
+2. Extrae el contenido de ZIP, el archivo use.cfg va a la carpeta live de star citizen y la carpeta data va en la carpeta live tambien.
 3. ¡Disfruta la traducción al español de Star Citizen!
 
 ## ✅ Versión
