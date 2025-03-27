@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo proporcionar una traducción no oficial del ju
 
 Haz clic en el siguiente enlace para descargar la traducción actualizada:  
 
-🔗 **[Descargar LIVE 4.1](https://github.com/SrBrutalz/Traduccion-sc/raw/main/LIVE%204.1.zip)**  
+🔗 **[Descargar LIVE 4.1](https://github.com/SrBrutalz/Traduccion-sc/raw/main/Live_4.1.zip)**  
 
 ## 📦 Instalación
 
