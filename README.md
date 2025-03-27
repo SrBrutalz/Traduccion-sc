@@ -5,7 +5,8 @@ Proyecto de traducción al español para **Star Citizen**.
 ## 📥 Descargar la Traducción
 Haz clic en el siguiente enlace para descargar la versión más reciente:
 
-[⬇️[Descargar LIVE 4.1]([])
+[⬇️[Descargar LIVE 4.1](https://raw.githubusercontent.com/SrBrutalz/Traduccion-sc/main/LIVE%204.1.zip)
+
 
 ## 📄 Instrucciones de Instalación
 1. Descarga el archivo ZIP desde el enlace de arriba.
