@@ -1,22 +1,31 @@
-# 🚀 Traducción Star Citizen LIVE 4.1
+# 📜 Traducción de Star Citizen - LIVE 4.1
 
-Proyecto de traducción al español para **Star Citizen**.
+Bienvenido a la traducción de **Star Citizen** realizada por la comunidad.  
+Este proyecto tiene como objetivo proporcionar una traducción no oficial del juego para mejorar la experiencia de los jugadores hispanohablantes.  
 
-## 📥 Descargar la Traducción
-Haz clic en el siguiente enlace para descargar la versión más reciente:
+## 🔽 Descarga la última versión
 
-[⬇️[Descargar LIVE 4.1](https://raw.githubusercontent.com/SrBrutalz/Traduccion-sc/main/LIVE%204.1.zip)
+Haz clic en el siguiente enlace para descargar la traducción actualizada:  
 
+🔗 **[Descargar LIVE 4.1](https://raw.githubusercontent.com/SrBrutalz/Traduccion-sc/main/LIVE%204.1.zip)**  
 
-## 📄 Instrucciones de Instalación
-1. Descarga el archivo ZIP desde el enlace de arriba.
-2. Extrae el contenido de ZIP, el archivo use.cfg va a la carpeta live de star citizen y la carpeta data va en la carpeta live tambien.
-3. ¡Disfruta la traducción al español de Star Citizen!
-4. Si ya tienes el archivo y carpeta solo copia el archivo Global.ini y reemplazalo a la nueva version.
-## ✅ Versión
-- **LIVE 4.1**
+## 📦 Instalación
 
-## 💻 Créditos
-- Traducción realizada por **SrBrutalz**
+1. Descarga el archivo `LIVE 4.1.zip`.  
+2. Extrae los archivos en la carpeta principal de **Star Citizen**.  
+3. Asegúrate de sobrescribir los archivos si es necesario.  
+4. Inicia el juego y disfruta de la traducción.  
+
+## 📢 Notas y Créditos
+
+- Esta traducción es un trabajo en progreso.  
+- Agradecemos cualquier sugerencia o reporte de errores.  
+
+## 📌 Contacto y Soporte
+
+Si tienes dudas o quieres ayudar con la traducción, puedes dejar un comentario en este repositorio.  
 
 ---
+
+🚀 **¡Gracias por apoyar este proyecto!**  
+
