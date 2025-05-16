@@ -13,7 +13,7 @@ Haz clic en el siguiente enlace para descargar la traducción actualizada:
 
 1. Descarga el archivo `LIVE 4.1.1zip`.  
 2. Extrae los archivos en la carpeta principal dentro de live de **Star Citizen**.  
-3. Asegúrate de sobrescribir los archivos si es necesario.  
+3. Asegúrate de sobreescribir los archivos si es necesario.  
 4. Inicia el juego y disfruta de la traducción.  
 
 ## 📢 Notas y Créditos
